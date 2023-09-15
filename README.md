@@ -15,9 +15,7 @@ REST API сервис:
 ![image](https://github.com/YurDuiachenko/SpringDataPractice/assets/72216941/e9b201a4-a9e8-4447-8e37-52dbcb123f65)
 
 ## Packages
-![image](https://github.com/YurDuiachenko/SpringDataPractice/assets/72216941/7a9d85d3-3de7-4038-9f7a-b12b97f89ded)
-![image](https://github.com/YurDuiachenko/SpringDataPractice/assets/72216941/384ef4de-3f39-4dd8-b7e0-5338fa0bb3f5)
-
+![image](https://github.com/YurDuiachenko/SpringDataPractice/assets/72216941/cceb46bc-5325-4502-a348-f450c1650ffc)
 
 ## Демонстрация(Postman)
 ![image](https://github.com/YurDuiachenko/SpringDataPractice/assets/72216941/fcec8a80-61f8-4128-929e-71370bc0fbb1)
